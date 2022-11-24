@@ -1,4 +1,4 @@
-- name: My first play
+- name: Update all machines
   hosts: all
   become: true
   tasks:
